@@ -1,0 +1,1 @@
+bind \cg fzf-file-widget
